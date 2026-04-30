@@ -1,0 +1,11 @@
+{
+  "name": "droneguard-api",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "func start"
+  },
+  "dependencies": {
+    "@azure/functions": "^4.7.0"
+  }
+}
